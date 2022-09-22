@@ -1,5 +1,5 @@
 ---
-title: 'Do you pay for Privacy in Online learning?'
+title: 'Open Problem: Do you pay for Privacy in Online learning?'
 abstract: 'Online learning, in the mistake bound model, is one of the most fundamental concepts in learning theory and differential privacy is, perhaps, the most widely used statistical concept of privacy in the machine learning community. Thus, defining problems which are online differentially privately learnable is of great interest in learning theory. In this paper, we pose the question on if the two problems are equivalent from a learning perspective, i.e., is privacy for free in the online learning framework?'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
@@ -7,7 +7,7 @@ publisher: PMLR
 issn: 5633-5637
 id: open-problem-sanyal22a
 month: 0
-tex_title: 'Do you pay for Privacy in Online learning?'
+tex_title: 'Open Problem: Do you pay for Privacy in Online learning?'
 firstpage: 5633
 lastpage: 5637
 page: 5633-5637
